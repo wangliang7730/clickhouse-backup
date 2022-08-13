@@ -148,7 +148,7 @@
 
 - [ClickHouse 高级指南](大数据技术栈/数据存储/ClickHouse/clickhouse高级.md)
 
-- [ClickHouse 监控](大数据技术栈/数据存储/ClickHouse/clickhouse监控.md)
+- [ClickHouse 监控](大数据技术栈/数据存储/ClickHouse/clickhouse监控_备份及还原.md)
 
 - [数据湖入门指南](大数据技术栈/数据存储/数据湖技术/数据湖笔记.md)
 
